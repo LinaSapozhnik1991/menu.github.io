@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+}
+p{
+    font-size: 24px;
+    margin-bottom: 15px;
+
+}
+.result{
+    color:rgba(224, 169, 96, 0.822);
+    margin-bottom: 15px;
+    padding-bottom: 20px;
+}
+div{width: 1400px;
+    height: 280px;
+    padding: 15px 15px 15px 10px;
+  
+    font-size: 20px;
+}
+
+    
+div:hover
+{
+    text-decoration: underline;
+    color: rgb(143, 110, 69);
+background-color: beige;
+}
+img{width: 425px;
+height: 225px;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 10px;
+box-sizing: border-box;
+border-radius:50px;}
+.btn {
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
